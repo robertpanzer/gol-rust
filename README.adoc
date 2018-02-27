@@ -1,0 +1,10 @@
+= Game of Life
+
+This project is only an experiment with Rust.
+To run install Rust and run the program with cargo:
+
+----
+cargo run
+----
+
+
